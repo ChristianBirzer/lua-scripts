@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: darktable-lua-setLens\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-20 14:09+0100\n"
+"PO-Revision-Date: 2022-03-20 14:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: Christian Birzer\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../../../contrib\n"
+"X-Poedit-SearchPath-0: setLens.lua\n"
+
+#: setLens.lua:55
+msgid "Set Lens Name"
+msgstr "Objektivname setzen"
+
+#: setLens.lua:74
+msgid "select at least one image"
+msgstr "Mindestens ein Bild selektieren"
+
+#: setLens.lua:87
+msgid "Lens name, configure in preferences/lua options"
+msgstr "Objektivname, in den Voreinstellungen/Lua Optionen konfigurieren"
+
+#: setLens.lua:91
+msgid "set"
+msgstr "Setzen"
+
+#: setLens.lua:92
+msgid "set lens name"
+msgstr "Objektivname setzen"
+
+#: setLens.lua:114
+msgid "SetLens: Lens names"
+msgstr "Objektivname setzen: Objektivnamen"
+
+#: setLens.lua:115
+msgid ""
+"semicolon separated list of lens names - restart darktable to take effect"
+msgstr ""
+"Strichpunktseparierte Liste von Objektivnamen - zum Uebernehmen darktable "
+"neu starten"
